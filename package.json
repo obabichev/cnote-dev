@@ -1,4 +1,7 @@
 {
+  "bin": {
+    "cnote-dev-console": "bin/console.js"
+  },
   "name": "cnote-dev",
   "version": "1.0.0",
   "description": "",
